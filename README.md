@@ -26,7 +26,7 @@ you can simply rename by respository and explore.
         https://www.npmjs.com/package/mysql
        
         ```sh
-        npm install
+        npm install mysql
         ```
     
      c) Body parser
@@ -41,3 +41,16 @@ you can simply rename by respository and explore.
           ```sh
           npm install nodemon
           ```
+          
+  4) After installing all the packages, do npm init in your command promt. It will ask for the package name and vaersion after you are done with it, package.json file will be created.
+  
+  5) To start experimenting create index.js in your folder, you can refer my code. After you are done with it, do 
+  
+     ```sh
+         node index.js
+         ```
+         
+     In your localhost try opening the url of your port e.g http://localhost:3000
+     
+  
+  
