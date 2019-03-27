@@ -29,12 +29,12 @@ you can simply rename by respository and explore.
      c) Body parser
           https://www.npmjs.com/package/body-parser
           
-           ```sh
-            npm install body-parser
+          ```sh
+          npm install body-parser
           ```
       d) Nodemon
           https://www.npmjs.com/package/nodemon
           
            ```sh
-            npm install nodemon
+           npm install nodemon
           ```
