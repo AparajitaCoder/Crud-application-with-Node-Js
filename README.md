@@ -24,9 +24,10 @@ you can simply rename by respository and explore.
       
     b) Mysql
         https://www.npmjs.com/package/mysql
+       
         ```sh
-    npm install
-    ```
+        npm install
+        ```
     
      c) Body parser
           https://www.npmjs.com/package/body-parser
