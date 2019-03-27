@@ -59,14 +59,4 @@ app.delete("/customer/:id", (req, res) => {
   );
 });
 
-//Insert customer detail from the database
-app.delete("/customer/:id", (req, res) => {
-  mysqlconnection.query(
-    "DELETE FROM tbl_customers WHERE id = ?",
-    req.params.id,
-    (err, rows, fields) => {
-      if (!err) res.send("Deleted Successfully!");
-      else console.log(err);
-    }
-  );
-});
+
