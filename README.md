@@ -24,8 +24,7 @@ you can simply rename by respository and explore.
       
     b) Mysql
         https://www.npmjs.com/package/mysql
-        
-       ```sh
+        ```sh
     npm install
     ```
     
