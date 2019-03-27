@@ -11,7 +11,7 @@ var mysqlconnection = mysql.createConnection({
   host: "localhost",
   user: "root",
   password: "",
-  database: "launderette_testing"
+  database: "customers"
 });
 
 //check db is  connected or not
