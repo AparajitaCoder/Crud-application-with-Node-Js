@@ -14,27 +14,29 @@ Create Simple CRUD Application with NODE JS
 
 3. If you are creating your own module then you have to install some of the dependencies which are required or
 you can simply rename by respository and explore.
+
     a) Express 
         https://www.npmjs.com/package/express
      
       ```sh
       npm install express
       ```
+      
     b) Mysql
         https://www.npmjs.com/package/mysql
         
         ```sh
-          npm install mysql
+        npm install mysql
         ```
      c) Body parser
           https://www.npmjs.com/package/body-parser
           
          ```sh
           npm install body-parser
-        ```
+         ```
       d) Nodemon
           https://www.npmjs.com/package/nodemon
           
-           ```sh
-           npm install nodemon
+          ```sh
+          npm install nodemon
           ```
